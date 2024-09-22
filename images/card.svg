@@ -1,0 +1,17 @@
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg">
+     <symbol id="card" viewBox="0 0 550 350">
+        <rect width="400" height="250" x="10" y="10" rx="20" ry="20" fill="yellow" />
+        <rect width="400" height="50" x="10" y="50" fill="lightgray" />
+        <!-- Card details -->
+        <line x1="50" y1="120" x2="100" y2="120" style="stroke:white;stroke-width:10" />
+        <line x1="120" y1="120" x2="170" y2="120" style="stroke:white;stroke-width:10" />
+        <line x1="50" y1="140" x2="70" y2="140" style="stroke:white;stroke-width:10" />
+        <line x1="80" y1="140" x2="100" y2="140" style="stroke:white;stroke-width:10" />
+        <line x1="110" y1="140" x2="140" y2="140" style="stroke:white;stroke-width:10" />
+        <line x1="150" y1="140" x2="170" y2="140" style="stroke:white;stroke-width:10" />
+        <!-- Card logos -->
+        <circle r="40" cx="300" cy="200" fill="red" />
+        <circle r="40" cx="350" cy="200" fill="blue" />
+    </symbol>
+
+</svg>
